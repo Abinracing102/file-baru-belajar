@@ -15,10 +15,10 @@
     <!-- Kiri -->
     <ul class="navbar-nav d-flex flex-row mb-0">
       <li class="nav-item me-3">
-        <a class="nav-link active text-white fw-semibold nav-hover" href="#">Home</a>
+        <a class="nav-link active text-white fw-semibold nav-hover" href="/">Home</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link text-white fw-semibold nav-hover" href="#">About</a>
+        <a class="nav-link text-white fw-semibold nav-hover" href="/about">About</a>
       </li>
     </ul>
 
